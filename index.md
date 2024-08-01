@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-Hi! My name is **Zantian Zhao(赵赞添)**. I am currently a Master student majoring Electrical and Computer Engineering at [University of Michigan](https://umich.edu/).
+Hi! My name is **Zantian Zhao(赵赞添)**. I am currently a Master's student majoring in Electrical and Computer Engineering at [University of Michigan](https://umich.edu/).
 I'm advised by Prof.
 <!--
 [Liyue Shen](https://liyueshen.engin.umich.edu/) 
 -->
-in the University of Michigan and I'm fortunate to work with Prof.[Jie Yuan](https://ese.nju.edu.cn/yj/list.htm) Prof.[Yu Zhou](https://ese.nju.edu.cn/zy_23988/list.htm) and Prof.[Yao Yu](https://ese.nju.edu.cn/90/99/c24004a364697/page3.htm) during my undergraduate in Nanjing University. I got my bachelor's degree in Telecommunications Engineering and my bachelor's degree from [Nanjing University](https://www.nju.edu.cn/en/). During my undergraduate, I was advised by Prof.[Jie Yuan](https://ese.nju.edu.cn/yj/list.htm) in the [School of Electronic Science and Engineering](https://ese.nju.edu.cn/ese_en/main.htm) of NJU. 
+in the University of Michigan. I'm honored to work with Prof.[Jie Yuan](https://ese.nju.edu.cn/yj/list.htm), Prof.[Yu Zhou](https://ese.nju.edu.cn/zy_23988/list.htm) and Prof.[Yao Yu](https://ese.nju.edu.cn/90/99/c24004a364697/page3.htm) mainly for computer vision during my undergraduate in Nanjing University. I got my bachelor's degree in Telecommunications Engineering and my bachelor's degree from [Nanjing University](https://www.nju.edu.cn/en/). I was advised by Prof.[Jie Yuan](https://ese.nju.edu.cn/yj/list.htm) in the [School of Electronic Science and Engineering](https://ese.nju.edu.cn/ese_en/main.htm) of Nanjing University. 
 
 ## Research Interests
 
