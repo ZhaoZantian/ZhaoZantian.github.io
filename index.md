@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! My name is **Zhao Zantian(赵赞添)**. I am a Master student majoring   Electrical and Computer Engineering at [University of Michigan](https://umich.edu/).
+Hi! My name is **Zantian Zhao(赵赞添)**. I am currently a Master student majoring Electrical and Computer Engineering at [University of Michigan](https://umich.edu/).
 I'm advised by Prof.
 <!--
 [Liyue Shen](https://liyueshen.engin.umich.edu/) 
