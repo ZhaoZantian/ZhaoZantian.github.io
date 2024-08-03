@@ -16,7 +16,7 @@ in the University of Michigan. Before joining Umich, I got my bachelor's degree 
 - **Computer Vision:** image recognition, image generation, 3D image reconstruction
 - **Machine Learning in Robotics** 
 - **Bio-Medical AI**
-- 
+
 ## Honors
 
 - **The Outstanding Graduates** ——Jun.2024
