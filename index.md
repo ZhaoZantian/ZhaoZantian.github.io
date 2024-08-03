@@ -21,7 +21,7 @@ in the University of Michigan. Before joining Umich, I got my bachelor's degree 
 
 - **The Outstanding Graduates** ——Jun.2024
 - **The Outstanding Students** ——Nov.2022
-- **The 2001 Electronic Scholarship** ——Dec.2022
+- **The 2001 Electronic Scholarship（1.5%）** ——Dec.2022
 
 <!--
 ## News
